@@ -1,7 +1,14 @@
 <div align="center">
-# 💫 About Me:
-DevOps Engineer focused on automation and cloud infrastructure, skilled in Docker, Kubernetes, Terraform, and CI/CD. Passionate about building scalable, efficient solutions.
 
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,06b6d4,0284c7&height=200&section=header&text=Sul.&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  
+  # :man_technologist: DevOps Engineer
+  
+  Don't like what you do cause you will never get better
+  
+  :earth_asia: **Cairo**
+  
+  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ahmedredadev) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedreda4014@gmail.com) 
