@@ -1,6 +1,6 @@
 <div align="center">
 
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,06b6d4,0284c7&height=200&section=header&text=Sul.&fontSize=80&fontAlignY=35&animation=fadeIn" />
+  <img src="https://github.com/theonlywitcher/theonlywitcher/blob/main/dev.gif" />
   
   # :man_technologist: DevOps Engineer
   
