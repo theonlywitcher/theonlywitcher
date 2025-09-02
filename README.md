@@ -1,6 +1,7 @@
 <div align="center">
 
  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0ea5e9,06b6d4,0284c7&height=200&section=header&text=TheOnlyWitcher.&fontSize=80&fontAlignY=35&animation=fadeIn" />    
+
 DevOps Engineer focused on automation and cloud infrastructure, skilled in Docker, Kubernetes, Terraform, and CI/CD. Passionate about building scalable, efficient solutions.
   
   
