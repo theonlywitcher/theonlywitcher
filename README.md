@@ -4,9 +4,7 @@
   
   # :man_technologist: DevOps Engineer
   
-  Don't like what you do cause you will never get better
-  
-  :earth_asia: **Cairo**
+DevOps Engineer focused on automation and cloud infrastructure, skilled in Docker, Kubernetes, Terraform, and CI/CD. Passionate about building scalable, efficient solutions.
   
   
 
